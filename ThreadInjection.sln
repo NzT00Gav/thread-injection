@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R_ThreadInjection", "R_ThreadInjection\R_ThreadInjection.csproj", "{B5EBDA43-3A25-41DE-B0AE-89149A78C5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EBDA43-3A25-41DE-B0AE-89149A78C5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EBDA43-3A25-41DE-B0AE-89149A78C5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EBDA43-3A25-41DE-B0AE-89149A78C5FD}.Debug|x64.ActiveCfg = Debug|x64
+		{B5EBDA43-3A25-41DE-B0AE-89149A78C5FD}.Debug|x64.Build.0 = Debug|x64
+		{B5EBDA43-3A25-41DE-B0AE-89149A78C5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EBDA43-3A25-41DE-B0AE-89149A78C5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EBDA43-3A25-41DE-B0AE-89149A78C5FD}.Release|x64.ActiveCfg = Release|x64
+		{B5EBDA43-3A25-41DE-B0AE-89149A78C5FD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176551F7-49A1-4CC4-8A6A-B40EE50DF552}
+	EndGlobalSection
+EndGlobal
