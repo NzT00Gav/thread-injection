@@ -16,3 +16,4 @@ Compile and execute by passing the target process by name or PID
 ```
 C:\Users\User> ThreadInjection.exe notepad
 ```
+The original shellcode contained in this code is a Meterpreter messagebox.
