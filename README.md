@@ -1,4 +1,4 @@
-thread injection
+Thread injection
 ===
 Implementation of Remote Thread Injection using DInvoke.
 
