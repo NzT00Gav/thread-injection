@@ -4,7 +4,7 @@ Implementation of Remote Thread Injection using DInvoke.
 
 Usage
 ---
-First, create a 16 or 32-byte key for the XOR operation.
+Create a 16 or 32-byte key for the XOR operation.
 ```
 $ dd if=/dev/urandom bs=1 count=32 of=key.dat
 ```
