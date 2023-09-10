@@ -198,7 +198,7 @@ namespace ThreadInjection
 
             if (handle)
             {
-                Console.WriteLine("\t> ConsoleHandle - OK");
+                Console.WriteLine("\t> CloseHandle - OK");
             }
         }
     }
